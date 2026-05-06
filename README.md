@@ -17,11 +17,7 @@ So there!
 
 #### 2. Install python modules (in the indigo-approved way)
 
-See here for reference and help: https://forums.indigodomo.com/viewtopic.php?f=107&t=19129&p=145969&hilit=virtualenv#p145969
-
-Should be something like:
-
-    pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib pytz
+This step is no longer needed. The python modules are installed on the first startup of this plugin.
 
 #### 3. Install the plugin
 You will get an error:
